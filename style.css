@@ -4,7 +4,9 @@ body
 color:#00FF76}
 
 header{
-    margin:}
+    margin:
+border: solid 5px rgb (#000000)
+}
 
 section{
     display: flex;
