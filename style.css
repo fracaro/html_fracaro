@@ -1,11 +1,12 @@
-header{<margin:50px
-background-color: blue;
-textansize
-justify}
-section{background-color: black;}
-margin : ;
-display:flex
 
 body
-{background-color: rgb(194, 0, 0);
-color:cyan}
+{background-color: rgb(255, 255, 255);
+color:rgb(0, 0, 0)}
+
+header{
+    margin:}
+    
+section{
+    display: flex;
+    padding: auto;
+}
