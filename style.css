@@ -3,6 +3,21 @@ body
 {background-color:#9DFAEC;
 color:#4f8177}
 
+<section>
+{background-color:black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    dispay:flex;
+    justify-content: center; ;}
+
+    .primeira chamada{
+        margin-right: 5%;;
+    }
+    .mais informaçoes de{
+        display: flex;
+        overflow-x: auto;
+        gap; 10px;
+    }
 header{
     margin: 5px
 border solid 5px rgb (#000000)
